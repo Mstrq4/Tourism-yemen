@@ -1,0 +1,8 @@
+{
+  "name": "Yemen Tourism Course",
+  "description": "An interactive educational platform for the Tourism in Yemen course, featuring visual summaries, quizzes, and AI-powered tools.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
